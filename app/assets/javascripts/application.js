@@ -12,8 +12,17 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require bootstrap.min
 //= require turbolinks
 //= require react
 //= require react_ujs
+//= require app.min  
+//= require Chart.min
+//= require jquery-jvectormap-1.2.2.min
+//= require jquery-jvectormap-world-mill-en
+//= require jquery.slimscroll.min
+//= require jquery.sparkline.min
+//= require fastclick.min
+//= require demo    
 //= require components
 //= require_tree .
