@@ -11,5 +11,8 @@ class Game
   has_many :booking, :class_name => 'Booking'
   belongs_to :season, :class_name => 'Season'
   has_and_belongs_to_many :teams, :class_name => 'Team'
-  
+
+  def ref
+
+  end
 end
